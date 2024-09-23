@@ -1,0 +1,1 @@
+text_object = font.render(text, False, p.Color('red'))
